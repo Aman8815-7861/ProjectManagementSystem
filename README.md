@@ -1,5 +1,5 @@
 # ProjectManagementSystem
-Project Manage System
+
 ## Prerequisites
 
 - Python `3.11`
